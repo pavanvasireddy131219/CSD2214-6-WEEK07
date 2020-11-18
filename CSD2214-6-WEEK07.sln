@@ -40,8 +40,7 @@ Global
 		{EA0E3679-551D-420D-828F-86E0E393C2C0}.Release|x64.Build.0 = Release|x64
 		{EA0E3679-551D-420D-828F-86E0E393C2C0}.Release|x64.Deploy.0 = Release|x64
 		{EA0E3679-551D-420D-828F-86E0E393C2C0}.Release|x86.ActiveCfg = Release|x86
-		{EA0E3679-551D-420D-828F-86E0E393C2C0}.Release|x86.Build.0 = Release|x86
-		{EA0E3679-551D-420D-828F-86E0E393C2C0}.Release|x86.Deploy.0 = Release|x86
+		{EA0E3679-551D-420D-828F-86E0E393C2C0}.Release|x86.
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
